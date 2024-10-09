@@ -7,4 +7,4 @@ authors = ["Sangram Singh"]
 [tool.poetry.dependencies]
 python = ">=3.10,<3.12"
 uagents = "*"
-requests = "^2.31.0"
+requests = "^2.32.2"
